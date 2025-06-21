@@ -18,7 +18,6 @@
 - 🎨 Je suis passionné par le développement web et les interfaces utilisateur modernes.
 - 💻 J’aime apprendre de nouvelles technologies et relever des défis techniques.
 - 🌍 Langues parlées : français, anglais.
-- 📫 Me contacter : **[Ton adresse email ou lien vers LinkedIn/GitHub Discussions]**
 
 ---
 
@@ -49,10 +48,6 @@
 ---
 
 ### 📊 Statistiques GitHub
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason8831&layout=compact&locale=fr&hide_title=true" alt="Langages les plus utilisés" />
-</p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jason8831&show_icons=true&locale=fr&hide_title=true" alt="Statistiques GitHub" />
