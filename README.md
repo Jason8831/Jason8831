@@ -15,7 +15,7 @@
 
 ### ✍️ À propos de moi
 
-- 🎨 Je suis passionné par le développement web et les interfaces utilisateur modernes.
+- 🎨 Je suis passionné par le développement web, jeux en tout genre et les interfaces utilisateur modernes.
 - 💻 J’aime apprendre de nouvelles technologies et relever des défis techniques.
 - 🌍 Langues parlées : français, anglais.
 
