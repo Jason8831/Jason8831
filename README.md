@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Jason8831</h1>
-<h3 align="center">Développeur frontend passionné, basé en Belgique</h3>
+<h3 align="center">Développeur frontend et backend passionné, basé en Belgique</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jason8831&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="vues du profil" />
